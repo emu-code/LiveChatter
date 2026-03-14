@@ -1,8 +1,9 @@
 # LiveChatter 🎙️
 Real-time speech transcription using Deepgram and Streamlit.
 
-##Demo
-https://github.com/emu-code/LiveChatter/blob/main/Screen%20Recording%202026-03-13%20at%2014.19.38.mov
+## Demo
+
+https://github.com/user-attachments/assets/0ec1544a-c1b9-41ae-8eae-93c501117af9
 
 ## Setup
 1. Clone the repo
